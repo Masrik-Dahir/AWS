@@ -1,3 +1,5 @@
+!*.py
+
 ### Bower template
 bower_components
 .bower-cache
@@ -16440,3 +16442,4 @@ gradle-app.setting
 ### Nohup template
 nohup.out
 
+!*.py
